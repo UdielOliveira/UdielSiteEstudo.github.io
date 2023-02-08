@@ -22,7 +22,7 @@ Windows, Macs e Linux:
 <Vá na URL e cole o link :>
 ```
 ```
-https://udieloliveira.github.io/UdielBarbearia.github.io/
+https://udieloliveira.github.io/UdielSiteEstudo.github.io/
 ```
 
 <h1 style: align="center">🤝 Desenvolvedor</h1>
