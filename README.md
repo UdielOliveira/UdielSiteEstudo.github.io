@@ -30,7 +30,7 @@ https://udieloliveira.github.io/UdielSiteEstudo.github.io/
 <table style: align="center">
     <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/113556350?v=4" width="100px;" alt="Foto do Mark Zuckerberg"/><br>
+        <img src="https://avatars.githubusercontent.com/u/113556350?v=4" width="100px;" alt="foto do Avatar de UdielOliveira"/><br>
         <sub>
           <b>UdielOliveira</b>
         </sub>
